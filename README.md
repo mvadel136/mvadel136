@@ -1,22 +1,16 @@
 ## 👋 About Me
 
-Hello! I'm Mohamed Vadel Hadweni, a Master's student in Computer Science with a strong interest in programming and problem solving.
+I am an Information Systems Architect with a background in software engineering, systems work, and applied research. My work is driven by a strong interest in building reliable systems and solving complex technical problems with structure and clarity.
 
-I enjoy working on projects related to software development, data analysis, and cybersecurity. In particular, I like exploring topics such as graph theory and practical applications of algorithms.
+My experience spans engineering, security-oriented work, and research. Along the way, I have worked on backend systems, low-level technical challenges, and data-driven projects, while developing a systems mindset that connects implementation, analysis, and reliability.
 
-Outside of my studies, I often participate in Capture The Flag (CTF) competitions, where I practice security concepts and challenge myself with different kinds of technical problems.
+I hold a Master’s degree in Information Systems and a Bachelor’s degree in Mathematics and Computer Science. My academic work included a thesis on AI applied to trading systems and market regime classification
 
 
-## 💻 Languages I Work With
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## 📫 Contact
+##  Contact
 
 You can reach me via email:  
 mvadel136+i[at]gmail.com
 
 Or connect with me on LinkedIn:  
-https://www.linkedin.com/in/mohamed-vadel-hadweni/
+https://www.linkedin.com/in/mvadel/
